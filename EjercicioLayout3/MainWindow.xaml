@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:EjercicioLayout3"
         mc:Ignorable="d"
         Title="Mosaico"
+        Icon="icon.ico"
         Height="636"
         Width="636"
         MinWidth="466"
